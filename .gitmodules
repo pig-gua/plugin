@@ -1,0 +1,9 @@
+[submodule "native-host"]
+	path = native-host
+	url = git@github.com:pig-gua/native-host.git
+[submodule "chrome-extension"]
+	path = chrome-extension
+	url = git@github.com:pig-gua/chrome-extension.git
+[submodule "update-server"]
+	path = update-server
+	url = git@github.com:pig-gua/update-server.git
